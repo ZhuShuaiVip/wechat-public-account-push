@@ -13,13 +13,13 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'd5a8f45d9d82e55a466d77f53ae6e8d4',
 
-  PROVINCE: '山西',
-  CITY: '大同',
+  PROVINCE: '山西省',
+  CITY: '大同市',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '吴愿宝贝',
+      name: '吴愿',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oC9Lp6XmrAOf4Fa5mx451dNPpR6k',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
